@@ -1,0 +1,2 @@
+vless://c6c1760f-f6af-4a54-8600-cf9c9971f7d8@104.17.3.81:443?path=%2Fvless&security=tls&encryption=none&host=sgdo1.cassanova.biz.id&type=ws&sni=sgdo1.cassanova.biz.id#Admin+1
+vless://c6c1760f-f6af-4a54-8600-cf9c9971f7d8@104.17.3.81:443?path=%2Fvless&security=tls&encryption=none&host=sgdo2.cassanova.biz.id&type=ws&sni=sgdo2.cassanova.biz.id#Admin+2
